@@ -1,4 +1,56 @@
 body {
     margin: 50px;
     padding: 25px;
+    background-color: rgba(22, 22, 22, 0.959);
+    color: rgb(163, 161, 161);
+}
+
+h1{
+
+    font-size: 55px;
+}
+
+#title-header{
+    color:rgba(223, 95, 10, 0.753);
+    font-size:3em;
+    text-align: center;
+}
+
+.paragraph-title-class {
+    text-align: center;
+}
+
+.image-class {
+    border: 5px solid black;
+    height: 250px;
+    width: 350px;
+    margin-top: 80px;
+}
+.figure-class-right {
+    float: right;
+    text-align: center;
+}
+.figure-class-left {
+    float: left;
+    text-align: left;
+}
+.section-class {
+    margin:50px;
+    padding: 25px;
+    text-align: left;
+    line-height: 200%;
+}
+
+#list-id {
+    text-align: left;
+}
+
+.paragraph-class {
+    margin-left: 100px;
+    margin-right: 200px;
+    text-align: left;
+
+}
+.paragraph-class2 {
+    width:300px;
 }
